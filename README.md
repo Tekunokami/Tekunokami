@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tekunokami, It's my first year at computer engineering, I currently started coding so I have so much to learn to become a game developer. Wish me good luck!
+- 👀 I’m interested in game development and modelling.
+- 🌱 I’m currently learning Python. In future I'll learn C, Java etc hopefully.
+- 📫 You can add me on Discord Tekunokami#0403.
